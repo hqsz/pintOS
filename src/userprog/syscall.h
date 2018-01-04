@@ -3,7 +3,7 @@
 
 #include "lib/stdio.h"
 
-void syscall_init (void);
+void syscall_init(void);
 
 /* Process identifier. */
 typedef int pid_t;
